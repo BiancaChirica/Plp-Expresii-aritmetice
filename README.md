@@ -20,9 +20,11 @@ eval X+(5+2)*7<br>
 Y=5 <br>
 Eval 4+(5*5+sin(88+10/Y))<br>
 Programul va afisa rezultatele : 59 si 30.<br>
+ <br>
 Exemplu 2 : <br>
 Eval 3 + x * 2 / ( 1–5 ) <br>
 Programul va afisa eroare. <br>
+ <br>
 Programul va citi expresia si o va parsa folosind algoritmul shunting-yard, aducand-o in postordine cu ajutorul unei stive si al unei cozi. <br>
 Acesta se va baza pe valoarea precedentei operatorilor si asociativitatea lor.
 Asociativitate la stanga pentru +,-,*,/ si la dreapta pentru ^ (ridicare la putere). <br>
