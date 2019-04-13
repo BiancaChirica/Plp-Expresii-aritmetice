@@ -1,15 +1,21 @@
 # Plp-Expresii-aritmetice
-<center>
-<h1>Parser</h1>
-( evaluator de expresii aritmetice )
-  </center>
-Chirica Bianca, II B5
+<align=center>
+<h1>Parser</h1> <br>
+( evaluator de expresii aritmetice )<br>
+Chirica Bianca, II B5 FII<br>
+<p>
 “A parser is a software component that takes input data (frequently text) and builds a data structure – often some kind of parse tree, abstract syntax tree or other hierarchical structure, giving a structural representation of the input while checking for correct syntax.” (Wikipedia)
-Limbajul : C/C++
+  </p>
+<br>
+Limbajul : C++
+<br>
+<p>
 Programul va primi ca input o expresie aritmetica compusa din cifre ( ‘0' - '9' ), operatorii '+', '-', '*', '/' , paranteze '(' ')' ,functii matematice (sin,cos,sqrt) si variabile si va returna rezultatul in urma comenzii “eval”.
-De exemplu pentru inputul:
-X=10
-eval X+(5+2)*7
+  </p>
+  <p>
+De exemplu pentru inputul: <br>
+X=10 <br>
+eval X+(5+2)*7<br>
 Y=5
 Eval 4+(5*5+sin(88+10/Y))
 Programul va afisa rezultatele : 59 si 30.
