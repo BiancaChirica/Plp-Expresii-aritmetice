@@ -1,0 +1,8 @@
+x-13
+Rezultatul expresiei este : -200
+5 + pow(var1,2)
+Rezultatul expresiei este : 1
+x+3
+Rezultatul expresiei este : -184
+( x - max(var3,var2) )*var1
+Rezultatul expresiei este : 2

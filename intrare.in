@@ -1,0 +1,8 @@
+x    = -187
+var1  =   -1
+var2  =  -3
+var3 =   -6
+eval x-13
+eval 5 + pow(var1,2)
+eval  x+3
+eval ( x - max(var3,var2) )*var1
